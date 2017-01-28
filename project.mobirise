@@ -579,7 +579,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-5512-bearbeitet-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -659,7 +659,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -693,7 +693,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -722,7 +722,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-5701-bearbeitet-2000x1128.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5701-bearbeitet-2000x1129.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -751,7 +751,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-3502-bearbeitet-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-7-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
